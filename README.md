@@ -35,8 +35,8 @@
 
 ### Output:
 ![image](https://github.com/nkishore2210/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118707090/f9614cf3-6883-4101-8c7f-ac0122ebab62)
-### Name: MANO KARTHICK S
-### Register Number: 212222230077
+### Name: KISHORE N
+### Register Number: 212222240049
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
